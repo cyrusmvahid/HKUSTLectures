@@ -1,0 +1,3 @@
+[submodule "Day1/GluonCrashCourse"]
+	path = Day1/GluonCrashCourse
+	url = https://github.com/cyrusmvahid/aim-418-labs.git
