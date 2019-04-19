@@ -12,5 +12,9 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  #To leave the environment
  conda deactivate
  ```
+ 
+ To get this repository, please run:
+ git clone --recurse-submodules https://github.com/cyrusmvahid/HKUSTLectures.git
+ 
 # HKUSTLectures
 - [slides for day 1 introduction to deep learning lecture](https://cyrusmv-toshare.s3.amazonaws.com/AIM418.pptx?AWSAccessKeyId=AKIAIYUU6IVJLMR5GNQA&Expires=1556542979&Signature=nN7iuihAUIe8dy3QwhscbnD73mY%3D)
