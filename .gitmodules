@@ -1,3 +1,6 @@
 [submodule "Day1/GluonCrashCourse"]
 	path = Day1/GluonCrashCourse
 	url = https://github.com/cyrusmvahid/aim-418-labs.git
+[submodule "Day4/nlp_base"]
+	path = Day4/nlp_base
+	url = https://github.com/cyrusmvahid/KDD18-Gluon.git
