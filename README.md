@@ -1,3 +1,8 @@
+# Note
+***in order to download new material every session run the following***
+```
+git submodule update --init --recursive
+```
 # Environmnet set up
 To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ```
