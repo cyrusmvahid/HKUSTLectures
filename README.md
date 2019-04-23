@@ -2,6 +2,9 @@
 ***in order to download new material every session run the following***
 ```
 git submodule update --init --recursive
+```
+If you have done the initialization you can simply run
+```
 git pull --recursive-submodules
 ```
 # Environmnet set up
