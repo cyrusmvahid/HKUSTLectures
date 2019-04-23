@@ -22,5 +22,10 @@ To install Conda please refer to [this link](https://docs.conda.io/projects/cond
  To get this repository, please run:
  git clone --recurse-submodules https://github.com/cyrusmvahid/HKUSTLectures.git
  
-# HKUSTLectures
-- [slides for day 1 introduction to deep learning lecture](https://cyrusmv-toshare.s3.amazonaws.com/AIM418.pptx?AWSAccessKeyId=AKIAIYUU6IVJLMR5GNQA&Expires=1556542979&Signature=nN7iuihAUIe8dy3QwhscbnD73mY%3D)
+# Study Materials:
+- gluon tutorials: http://mxnet.incubator.apache.org/versions/master/tutorials/index.html 
+- reference book: http://d2l.ai/
+- related repos:
+  - https://github.com/cyrusmvahid/GluonBootcamp
+  - https://github.com/cyrusmvahid/KDD18-Gluon
+  - https://github.com/cyrusmvahid/MXNetWorkshopHongKong
