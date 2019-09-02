@@ -1,7 +1,7 @@
 # Downloading new material
 ***in order to download new material every session run the following***
 ```
-git clone https://github.com/cyrusmvahid/HKUSTLectures.git --recurse-sumbodules
+git clone https://github.com/cyrusmvahid/HKUSTLectures.git --recurse-submodules
 git submodule update --init --recursive
 ```
 If you have done the initialization you can simply run
