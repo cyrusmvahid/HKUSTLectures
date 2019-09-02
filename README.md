@@ -11,7 +11,7 @@ git pull --recurse-submodules
 # Environmnet set up
 To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 ```
- conda create -n HUB python=3.6 anaconda
+ conda create -n HUB python=3.6 
  source activate HUB
  pip install numpy mxnet jupyter seaborn matplotlib pandas scipy gluoncv gluonnlp scikit-learn
  #test your environment
