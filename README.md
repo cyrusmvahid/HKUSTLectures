@@ -1,11 +1,12 @@
 # Downloading new material
 ***in order to download new material every session run the following***
 ```
+git clone https://github.com/cyrusmvahid/HKUSTLectures.git --recurse-sumbodules
 git submodule update --init --recursive
 ```
 If you have done the initialization you can simply run
 ```
-git pull --recursive-submodules
+git pull --recurse-submodules
 ```
 # Environmnet set up
 To install Conda please refer to [this link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
